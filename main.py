@@ -8,5 +8,4 @@ def diff(n):
     #Code here
 
 def Greet():
-    #Return true if 'n' is prime, otherwise returns false
-    #Code here
+   print("Hello Everyone")
