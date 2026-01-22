@@ -4,8 +4,10 @@ def sum(n):
 
 
 def diff(n):
-    #Returns n-th fibonacci number
-    #Code here
+    a=7
+    b=6
+    n=a-b
+    return n
 
 def Greet():
     #Return true if 'n' is prime, otherwise returns false
