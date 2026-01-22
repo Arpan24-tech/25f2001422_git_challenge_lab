@@ -1,7 +1,8 @@
 def sum(n):
-    #Returns the list of natural numbers
-    #Code here
-
+   a=5
+   b=7
+   n=a+b
+   return n
 
 def diff(n):
     #Returns n-th fibonacci number
