@@ -11,5 +11,4 @@ def diff(n):
     return n
 
 def Greet():
-    #Return true if 'n' is prime, otherwise returns false
-    #Code here
+   print("Hello Everyone")
